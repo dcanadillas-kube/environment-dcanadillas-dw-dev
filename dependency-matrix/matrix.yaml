@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/dcanadillas/dw-lisbon-go.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: WorkshopCB
+  repo: petclinic-jenkins-x
+  url: https://github.com/WorkshopCB/petclinic-jenkins-x.git
+  version: ""
+  versionURL: ""
