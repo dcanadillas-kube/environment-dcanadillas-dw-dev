@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dcanadillas
+    provider: github
+    repository: dw-lisbon-go
+  name: dcanadillas-dw-lisbon-go
+spec:
+  description: Imported application for dcanadillas/dw-lisbon-go
+  httpCloneURL: https://github.com/dcanadillas/dw-lisbon-go.git
+  org: dcanadillas
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: dw-lisbon-go
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dcanadillas/dw-lisbon-go.git
