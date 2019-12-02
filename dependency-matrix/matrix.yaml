@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/WorkshopCB/petclinic-jenkins-x.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: dcanadillas
+  repo: petclinic-jx
+  url: https://github.com/dcanadillas/petclinic-jx.git
+  version: ""
+  versionURL: ""
