@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dcanadillas-kube
+    provider: github
+    repository: python-dw
+  name: dcanadillas-kube-python-dw
+spec:
+  description: Imported application for dcanadillas-kube/python-dw
+  httpCloneURL: https://github.com/dcanadillas-kube/python-dw.git
+  org: dcanadillas-kube
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: python-dw
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dcanadillas-kube/python-dw.git
