@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/jx-dcanadillas/petclinic-dw19.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: dcanadillas-kube
+  repo: python-dw
+  url: https://github.com/dcanadillas-kube/python-dw.git
+  version: ""
+  versionURL: ""
