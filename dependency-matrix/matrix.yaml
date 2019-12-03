@@ -41,3 +41,9 @@ dependencies:
   url: https://github.com/dcanadillas-kube/spring-test.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: dcanadillas
+  repo: petclinic-dwjw
+  url: https://github.com/dcanadillas/petclinic-dwjw.git
+  version: ""
+  versionURL: ""
