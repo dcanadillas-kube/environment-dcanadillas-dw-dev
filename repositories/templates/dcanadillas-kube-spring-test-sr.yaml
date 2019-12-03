@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: dcanadillas-kube
+    provider: github
+    repository: spring-test
+  name: dcanadillas-kube-spring-test
+spec:
+  description: Imported application for dcanadillas-kube/spring-test
+  httpCloneURL: https://github.com/dcanadillas-kube/spring-test.git
+  org: dcanadillas-kube
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: spring-test
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/dcanadillas-kube/spring-test.git
