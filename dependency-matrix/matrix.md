@@ -9,3 +9,4 @@ Dependency | Sources | Version | Mismatched versions
 [dcanadillas-kube/python-dw](https://github.com/dcanadillas-kube/python-dw.git) |  | []() | 
 [WorkshopCB/petclinic-kaniko-jx](https://github.com/WorkshopCB/petclinic-kaniko-jx.git) |  | []() | 
 [dcanadillas-kube/spring-test](https://github.com/dcanadillas-kube/spring-test.git) |  | []() | 
+[dcanadillas/petclinic-dwjw](https://github.com/dcanadillas/petclinic-dwjw.git) |  | []() | 
